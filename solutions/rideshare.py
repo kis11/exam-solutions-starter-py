@@ -21,7 +21,7 @@ trip = {
     ]
 }
 
-
+print("suh dude rd 2")
 if __name__ == "__main__":
 
     print("------------------")
